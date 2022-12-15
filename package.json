@@ -1,0 +1,19 @@
+{
+  "homepage": "https://webdateng.github.io/test",
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "gh-pages": "^4.0.0"
+  }
+}
